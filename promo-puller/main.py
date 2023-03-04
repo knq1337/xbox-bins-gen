@@ -53,3 +53,4 @@ for l in open("accs.txt").read().splitlines():
     puller(l)
 
 print("[+] Finished!")
+#hdjsfhbkljsdhfkdsjfhdhfhfhhh
